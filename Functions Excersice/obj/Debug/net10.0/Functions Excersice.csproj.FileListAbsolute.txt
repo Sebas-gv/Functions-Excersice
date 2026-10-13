@@ -1,0 +1,15 @@
+C:\Users\zebbs\Downloads\Bow Valley\Programming C#\Functions\C# Functions Exercise\Functions Excersice\Functions Excersice\bin\Debug\net10.0\Functions Excersice.exe
+C:\Users\zebbs\Downloads\Bow Valley\Programming C#\Functions\C# Functions Exercise\Functions Excersice\Functions Excersice\bin\Debug\net10.0\Functions Excersice.deps.json
+C:\Users\zebbs\Downloads\Bow Valley\Programming C#\Functions\C# Functions Exercise\Functions Excersice\Functions Excersice\bin\Debug\net10.0\Functions Excersice.runtimeconfig.json
+C:\Users\zebbs\Downloads\Bow Valley\Programming C#\Functions\C# Functions Exercise\Functions Excersice\Functions Excersice\bin\Debug\net10.0\Functions Excersice.dll
+C:\Users\zebbs\Downloads\Bow Valley\Programming C#\Functions\C# Functions Exercise\Functions Excersice\Functions Excersice\bin\Debug\net10.0\Functions Excersice.pdb
+C:\Users\zebbs\Downloads\Bow Valley\Programming C#\Functions\C# Functions Exercise\Functions Excersice\Functions Excersice\obj\Debug\net10.0\Functions Excersice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zebbs\Downloads\Bow Valley\Programming C#\Functions\C# Functions Exercise\Functions Excersice\Functions Excersice\obj\Debug\net10.0\Functions Excersice.AssemblyInfoInputs.cache
+C:\Users\zebbs\Downloads\Bow Valley\Programming C#\Functions\C# Functions Exercise\Functions Excersice\Functions Excersice\obj\Debug\net10.0\Functions Excersice.AssemblyInfo.cs
+C:\Users\zebbs\Downloads\Bow Valley\Programming C#\Functions\C# Functions Exercise\Functions Excersice\Functions Excersice\obj\Debug\net10.0\Functions Excersice.csproj.CoreCompileInputs.cache
+C:\Users\zebbs\Downloads\Bow Valley\Programming C#\Functions\C# Functions Exercise\Functions Excersice\Functions Excersice\obj\Debug\net10.0\Functions Excersice.dll
+C:\Users\zebbs\Downloads\Bow Valley\Programming C#\Functions\C# Functions Exercise\Functions Excersice\Functions Excersice\obj\Debug\net10.0\refint\Functions Excersice.dll
+C:\Users\zebbs\Downloads\Bow Valley\Programming C#\Functions\C# Functions Exercise\Functions Excersice\Functions Excersice\obj\Debug\net10.0\Functions Excersice.pdb
+C:\Users\zebbs\Downloads\Bow Valley\Programming C#\Functions\C# Functions Exercise\Functions Excersice\Functions Excersice\obj\Debug\net10.0\Functions Excersice.genruntimeconfig.cache
+C:\Users\zebbs\Downloads\Bow Valley\Programming C#\Functions\C# Functions Exercise\Functions Excersice\Functions Excersice\obj\Debug\net10.0\ref\Functions Excersice.dll
+C:\Users\zebbs\Downloads\Bow Valley\Programming C#\Functions\C# Functions Exercise\Functions Excersice\Functions Excersice\obj\Debug\net10.0\Function.BA164E94.Up2Date
